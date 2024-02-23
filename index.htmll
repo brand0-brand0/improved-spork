@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Change Repository Visibility</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Changing your GitHub repository from private to public is a straightforward process. Here’s how you can do it:</h1>
+        <ol>
+            <li>Navigate to Your Repository: Log into your GitHub account, go to your dashboard, and click on the repository you want to change to public.</li>
+            <li>Go to Settings: Once you’re in your repository, look for the "Settings" tab near the top-right corner of the page and click on it.</li>
+            <li>Find the "Danger Zone": Scroll all the way down to the bottom of the settings page until you find a section labeled "Danger Zone".</li>
+            <li>Change Repository Visibility: In the Danger Zone, you’ll see a button or link that says "Change repository visibility". Click on it.</li>
+            <li>Choose Public: You will be prompted to confirm your action. Select “Public” to make your repository visible to anyone.</li>
+            <li>Confirm the Change: GitHub will ask you to type your repository name to confirm that you want to change the visibility to public. This is a safety measure to ensure you understand the action you’re taking.</li>
+            <li>Complete the Change: After typing your repository name, click on the button to change the visibility to public. This might be labeled "I understand, change repository visibility", or something similar.</li>
+        </ol>
+    </div>
+</body>
+</html>
